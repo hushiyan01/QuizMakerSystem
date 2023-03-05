@@ -1,0 +1,10 @@
+MC,Basics,Easy,Java was created at________________. ,IBM'Sun'HP'Microsoft,B
+MC,DataTypes,Medium,Which of the following datatypes can only store whole numbers? ,int'float'byte'short,A C D
+MC,Variables,Easy,Which of the following are valid variable names from compilers point of view? ,age'letterGrade'numberOfStudents'x,A B C D
+TF,Operators,Easy,The statement int x = 5.6; will compile without errors. ,,FALSE
+TF,Operators,Hard,The statement double x = 5; will compile without errors. ,,TRUE
+NA,Operations,Easy,What will the expression (2+3 * 6-1) evaluate to? ,,19
+NA,Operations,Hard,"What will the statement System.out.print("1" + 2 + 3); print?",,123
+TF,Operators,Medium,"The statement int x = "5"; will compile without errors.",,FALSE
+NA,Operations,Medium,"What will the statement System.out.print("1" + "2"); print?",,12
+MC,Variables,Hard,Which of the following can be implictly casted as double? ,int'String'float'boolean,A C

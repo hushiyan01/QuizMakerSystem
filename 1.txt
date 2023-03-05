@@ -1,0 +1,12 @@
+----------------------------------------------------------
+1(  1 points  )
+
+Open Date:2/4/2023	Due Date:2/10/2023
+----------------------------------------------------------
+
+1. (1 points)
+Which of the following are valid variable names from compilers point of view?  Select all that apply
+A.age  B.letterGrade  C.numberOfStudents  D.x  
+
+
+
